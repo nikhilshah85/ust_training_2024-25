@@ -1,0 +1,19 @@
+1. I will create a new repository in my GitHub account
+	training_repo
+2. I will share the clone url and you will clone it / map it to your desktop on vm
+	https://github.com/nikhilshah85/training_repo.git
+
+3. I will keep adding the files and folder to my local repository and push it to GitHub
+		git add . (stage all the changes to be pushed / ready all the files / bundle all the files
+										to fly to git account)
+
+		git commit -m "First commit for test"
+
+		git push
+
+
+4. you will just to pull
+		git pull
+
+5. I will then create branches
+6. I will want you guys also to contribute to repo - in the branches allocated to you

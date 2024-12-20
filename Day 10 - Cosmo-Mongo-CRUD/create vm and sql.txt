@@ -1,0 +1,15 @@
+New-AzVM  -ResourceGroupName 'rg-azuser2550_mml.local-8wGtr' -Name 'firstVM' -Location 'EastUS' -Image 'MicrosoftWindowsServer:WindowsServer:2022-datacenter-azure-edition:latest' -OpenPorts 80,3389
+
+
+
+Invoke-AzVMRunCommand -ResourceGroupName 'rg-azuser2550_mml.local-8wGtr' -VMName 'firstVM' -CommandId 'RunPowerShellScript' -ScriptString 'Install-WindowsFeature -Name Web-Server -IncludeManagementTools'
+
+
+Task;
+
+Create a new sql server and a database using powershell
+
+
+open ip
+0.0.0.0 
+255.255.255.255

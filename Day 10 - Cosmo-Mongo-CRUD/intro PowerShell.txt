@@ -1,0 +1,24 @@
+					Azure PowerShell
+
+				shell scripting became a feature of windows server
+
+			day by day Microsoft made it more powerful and named it as Powershell
+
+			this days they also ship it with windows 10 and 11
+
+
+			---------------------------------------------------------------
+
+		1. Az powershell run on PS version 7 and above
+			we can install this version on local computer and start working
+		2. we also have powershell not integrated with azure portal 
+			when u login to azure portal, u can still test the command/fire queries using 
+			azure powershell commands
+			This powershell is called as Cloudshell
+
+
+
+
+
+
+

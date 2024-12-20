@@ -1,0 +1,79 @@
+
+
+				VMS - 
+(reimbursement form) - (leave application form) - (login) - (registration) - (job application form) 
+
+`1. 
+	if a document is created today 
+		it will go through many changes over a period of year
+		by MANY people - many teams - at different times
+
+		we need to keep a track of all the changes it is going through
+		who allocated to change ?
+		suggessions by different people ?
+		who changed it ?
+		who approved it ?
+		date and time ?
+		change number ?
+		minor change - major change ?
+		reason for change ? (commit message)
+		
+		etc...
+		so that things can be tracked / ROLLED back to any point if needed
+
+		Version management system / control
+
+	2. centralised / distributed storage
+
+-------------------------------------------------------------------------------------------------------
+			we had tools for the same in past
+		1. SVN - open source tool - fantastic - this was desktop based - did not work well 
+				in cross platform 
+		2. Team Foundation server - TFS - this ms based solution - very costly - on premises
+			we now have its cloud version - called devops - super successful - paid
+		3. founder of Linux system, while working on the projects himself faced a lot of problem 
+				Linus Torvalds, thus founded a repository system called - GIT	
+		4. Super successful
+
+	------------------------------------------------------------------------------------------
+			
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			

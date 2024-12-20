@@ -1,0 +1,5 @@
+Java API with cosmo
+https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-java-web-app
+
+.net api with cosmo
+https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-dotnet-console-app
