@@ -1,0 +1,19 @@
+Angular
+	testing (testing framework, methodology and patters, etc..)
+	integrate the project - pipeline for testing on devops
+	SonarCube integration (this is a complete automated software, which can perform
+	
+
+	many tests under single umbrella, 
+	also can perform Code Smell)
+			If your org wants to patent the application, 
+					get it ISO certified 
+					go with the ECMA standards etc...
+
+			all the coding ASCI standards needs to be followed
+
+		Code smell - has developer followed all the coding guidelines
+			eg. variable declaration, access modifiers, encryptions, data leak, no warnings
+			
+
+
